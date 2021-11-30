@@ -16,7 +16,7 @@ This is  a implementation for Connect4 and the readme aims on explaining the fil
 
 ### File Structure:-
 
-This has 2 parts one being the Classical Evaluation which uses minimax and other being the Neural-Network part which has the projects, both having a seperate visualise.py file.  To run this on your local machine run the **visualise.py** file in your computer. Make sure you are in the **same** directory as your file is in else there can be a few path errors. There is no need for any datasets as the model produces datasets from its own by playing with itself.
+code folder contains some of my implementations and src is the main game playing folder. This has 2 parts one being the Classical Evaluation which uses minimax and other being the Neural-Network part which has the projects, both having a seperate visualise.py file.  To run this on your local machine run the **visualise.py** file in your computer. Make sure you are in the **same** directory as your file is in else there can be a few path errors. There is no need for any datasets as the model produces datasets from its own by playing with itself.
 
 <ol>
     <li>To train you own model run the train.py file and to custom change anything along to your needs, change the variables in initialiser.py.</li>
