@@ -11,8 +11,16 @@ This is  a implementation for Connect4 and the readme aims on explaining the fil
     <li> Tensorflow  2.6.0 </li>
     <li> Keras 2.1.6</li>
     <li> Numpy  </li>
+    <li> Python 3</li>
 </ol>
 
+### Run the Programme:-
+
+To run it simply cd into the Alpha_zero directory or the classical_eval directory and run
+
+```
+python3 visualise.py
+```
 
 ### File Structure:-
 
