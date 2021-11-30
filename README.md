@@ -41,5 +41,5 @@ models/ folder contains few trained model in .h5 format and can be downloaded di
 
 A sample game played with the AI is :-
 
-![Alt Text](https://github.com/devesh-002/Beginner-AI/blob/main/Readme_files/Connect4.gif)
+![Alt Text](https://github.com/devesh-002/Beginner-AI/blob/main/Readme_files/Connect4%20.gif)
 
