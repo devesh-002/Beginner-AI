@@ -2,7 +2,7 @@
 
 ## Introduction:- 
 
-This is  a implementation for Connect4 and the readme aims on explaining the file structure and dependicies only, regarding more intrinsic details on why stuff works check out the report of the Project. The dependencies here are tried to be kept as close to the original alpha-zero as the original one also used Tensorflow and keras.
+This is  a implementation for Connect4 AI and the readme aims on explaining the file structure and dependencies only, regarding more intrinsic details on why stuff works check out the report of the Project. The dependencies here are tried to be kept as close to the original alpha-zero as the original one also used Tensorflow and keras.
 
 ### Dependencies:-
 
